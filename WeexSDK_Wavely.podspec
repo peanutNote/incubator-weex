@@ -2,9 +2,9 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "WeexSDK"
+  s.name         = "WeexSDK_Wavely"
 
-  s.version      = "0.28.0"
+  s.version      = "1.0.0"
 
   s.summary      = "WeexSDK Source."
 
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                    A framework for building Mobile cross-platform UI
                    DESC
 
-  s.homepage     = "https://github.com/apache/incubator-weex"
+  s.homepage     = "https://github.com/peanutNote/incubator-weex"
   s.license = {
     :type => 'Apache-2.0'
   }
